@@ -1,0 +1,14 @@
+Timestamp= 04/01/2017 21:50:38,number1=4 , number2=5 , result=9
+Timestamp= 05/01/2017 00:43:26,number1=12 , number2=34 , result=46
+Timestamp= 05/01/2017 00:44:13,number1=4 , number2=5 , result=9
+Timestamp= 05/01/2017 00:44:22,number1=12 , number2=34 , result=46
+Timestamp= 05/01/2017 00:48:39,number1=4 , number2=5 , result=9
+Timestamp= 05/01/2017 00:48:48,number1=12 , number2=34 , result=46
+Timestamp= 05/01/2017 00:53:00,number1=12 , number2=33 , result=45
+Timestamp= 05/01/2017 00:53:57,number1=12 , number2=33 , result=45
+Timestamp= 05/01/2017 00:56:50,number1=2 , number2=3 , result=5
+Timestamp= 05/01/2017 00:58:34,number1=9 , number2=8 , result=17
+Timestamp= 05/01/2017 01:04:30,number1=4 , number2=3 , result=7
+Timestamp= 05/01/2017 11:21:13,number1=1 , number2=2 , result=3
+Timestamp= 05/01/2017 11:21:20,number1=4 , number2=5 , result=9
+Timestamp= 05/01/2017 14:04:13,number1=77777777777777777777777777777777 , number2=77777777777777777777777777777777 , result=155555555555555555555555555555554

@@ -1,0 +1,24 @@
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\bin\Debug\Task.Domain.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\bin\Debug\Task.Domain.pdb
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.pdb
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\bin\Debug\BigInteger.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.csprojResolveAssemblyReference.cache
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Domain\Task.Domain\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\bin\Debug\Task.Domain.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\bin\Debug\Task.Domain.pdb
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\bin\Debug\BigInteger.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.csprojResolveAssemblyReference.cache
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.pdb
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\bin\Debug\Task.Domain.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\bin\Debug\Task.Domain.pdb
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\bin\Debug\BigInteger.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.csprojResolveAssemblyReference.cache
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Domain\Task.Domain\obj\Debug\Task.Domain.pdb

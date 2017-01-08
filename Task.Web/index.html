@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html ng-app="app">
+
+<head>
+    <title>Angular App</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- vendor -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+    <script src="www/src/assets/js/angular/angular.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="www/src/assets/js/spin/spin.min.js"></script>
+    <!-- custom -->
+    <link rel="stylesheet" href="www/src/assets/css/custom-style.css">
+</head>
+
+<body ng-controller="BigNumberCtrl as vm">
+    <div class="margin-bottom-100"></div>
+    <div class="container" id="work-area">
+        <h2 class="bottom-border margin-all-10 padding-all-10">T A S K</h2>
+        <div class="form padding-all-20 margin-all-20">
+            <p class="alert alert-danger" ng-show="vm.error != ''">{{vm.error}}</p>
+            <p class="alert alert-info" ng-show="vm.result != ''">{{vm.result}}</p>
+            <div class="form-group padding-all-5">
+                <label for="number1">Number1</label>
+                <input type="text" ng-model="vm.number1" name="number1" class="form-control" placeholder="Number1" />
+            </div>
+            <div class="form-group">
+                <label for="number1">Number2</label>
+                <input type="text" ng-model="vm.number2" name="number2" class="form-control" placeholder="Number2" />
+            </div>
+            <div class="form-group">
+                <button class="btn btn-success btn-lg pull-right" ng-click="vm.addNumbers()">Add Numbers</button>
+                <button class="btn btn-primary btn-lg pull-right margin-right-20" ng-click="vm.fetchLogs()">Show Logs</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Log Window -->
+    <div class="modal fade" id="log-window" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="modal-label">Log History</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="light-border">
+                        <h3 class="bottom-border padding-all-10 margin-all-10">Data received</h3>
+                        <div class="log-item" ng-repeat="log in vm.logs">
+                            {{$index+1}}.{{log}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="busy-indicator"></div>
+    <script src="www/src/app.js"></script>
+    <script src="www/src/common/constant.js"></script>
+    <script src="www/src/bigNumberCalculator/number-service.js"></script>
+    <script src="www/src/bigNumberCalculator/big-number-controller.js"></script>
+</body>
+
+</html>

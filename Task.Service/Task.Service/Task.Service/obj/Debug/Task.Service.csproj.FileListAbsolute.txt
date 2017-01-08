@@ -1,0 +1,258 @@
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\csc.exe
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\vbc.exe
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll.config
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.pdb
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\EntityFramework.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\EntityFramework.SqlServer.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Owin.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\WebGrease.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.pdb
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\EntityFramework.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\EntityFramework.SqlServer.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\WebActivatorEx.dll
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.xml
+C:\Users\kshahzad\docs\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\csc.exe
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\vbc.exe
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll.config
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.pdb
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\WebActivatorEx.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\WebGrease.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Owin.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.pdb
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Owin.xml
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Domain.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Domain.pdb
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\BigInteger.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Cors.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.Cors.dll
+C:\Users\khurr\Desktop\ex\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.Cors.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\csc.exe
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\vbc.exe
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll.config
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Service.pdb
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\BigInteger.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Cors.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.Cors.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Domain.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\WebActivatorEx.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\WebGrease.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Task.Domain.pdb
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.Cors.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.pdb
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\kshahzad\docs\ws\Task\Task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\csc.exe
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\vbc.exe
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll.config
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Task.Service.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Task.Service.pdb
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\BigInteger.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Ninject.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Cors.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.Cors.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Task.Domain.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\WebActivatorEx.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\WebGrease.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Task.Domain.pdb
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Ninject.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.Common.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Ninject.Web.WebApi.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.Cors.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Newtonsoft.Json.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Helpers.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Mvc.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Optimization.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.Razor.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Antlr3.Runtime.pdb
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Task.Infrastructure.dll
+C:\Users\khurr\Desktop\Interview Tests\Interoute\number-task\Task.Service\Task.Service\Task.Service\bin\Task.Infrastructure.pdb
